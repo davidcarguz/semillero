@@ -3,9 +3,10 @@ package evaluacionUno;
 public class NuevaClase {
 
 	public static void main(String[] args) {
-
-		System.out.println("fue Jhindy");
-
+		
+		for(int i=0 ; i<4 ; i++) {
+		System.out.println("Hola!");
+		}
 
 	}
 
